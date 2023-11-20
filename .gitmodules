@@ -1,0 +1,3 @@
+[submodule "Tarot_Maker/lib/forge-std"]
+	path = Tarot_Maker/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
